@@ -17,6 +17,7 @@ The project is available on the arduino one board (and on all the other boards o
 The project is available on the ESP8266 only changing the board in the Arduino IDE -> Menu Tools -> Boards -> Wemos D1 Mini 
 
 ### Video Demo
-You can see the video of this experiment on my Yoiutube Channel
+You can see the video of the experiment on my [Youtube Channel](https://www.youtube.com/channel/UCtnlq-EDcvIA7MRL-Pn2jsg) 
 
-![RGB WS2812B Processing Serial Arduino ESP8266](https://www.youtube.com/watch?v=Ks6v3ylZl54)
+
+[![RGB WS2812B Processing Serial Arduino ESP8266](http://img.youtube.com/vi/Ks6v3ylZl54/0.jpg)](https://www.youtube.com/watch?v=Ks6v3ylZl54)
